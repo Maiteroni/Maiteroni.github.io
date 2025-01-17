@@ -1,0 +1,148 @@
+.about-textblock1-wrapper {
+    display: block;
+    width: 1000px;
+    margin: 0 auto 100px auto;
+}
+
+.about-title-text {
+    font-size: 36px;
+    color: var(--color-white);
+    margin: 50px auto;
+    text-align: center;
+}
+
+.about-textblock-wrapper-inner {
+    display: flex;
+    flex-direction: row;
+    width: 900px;
+    margin: auto;
+    align-items: center;
+}
+
+.dots-wrapper {
+    position: relative;
+    width: 230px;
+    height: 230px;
+}
+
+.about-textblock {
+    display: flex;
+    flex-direction: column;
+}
+
+.about-img-dots {
+     position: absolute;
+     top: 100px;
+     left: 100px;
+     width: 80%;
+     height: 80%;
+ }
+
+.about-block-text {
+    width: 700px;
+    font-size: 20px;
+    color: var(--color-white);
+    margin: 0 auto;
+    line-height: 28px;
+}
+
+.about-img-wrapper {
+    width: 140px;
+    height: 23px;
+    margin: 30px 0 20px 800px;
+}
+
+.about-social-media {
+    display: flex;
+    flex-direction: row;
+    width: 110px;
+    justify-content: space-between;
+}
+
+.about-img {
+    object-fit: contain;
+    width: 80%;
+    height: 80%;
+}
+
+.about-social-media-logo {
+    width: 20px;
+    height: 20px;
+}
+
+.about-textblock2-wrapper {
+    display: flex;
+    flex-direction: row;
+    width: 900px;
+    margin: 30px auto 100px auto;
+    align-content: center;
+    gap: 20px;
+    justify-content: center;
+}
+
+.about-textblock2-img {
+    width: 260px;
+}
+
+.about-textblock2 {
+    display: flex;
+    flex-direction: column;
+    margin-top: 140px;
+}
+
+.about-block2-text {
+    width: 600px;
+    font-size: 20px;
+    color: var(--color-white);
+    margin: 0 auto;
+    line-height: 28px;
+}
+
+.about-img-block2-wrapper {
+    width: 180px;
+    height: 23px;
+    margin: 30px 0 20px 500px;
+}
+
+.about-textblock3-wrapper {
+    display: flex;
+    flex-direction: row;
+    width: 900px;
+    margin: 100px auto;
+    align-content: center;
+    gap: 30px;
+    justify-content: center;
+}
+
+.about-textblock3-img-wrapper {
+    display: flex;
+    flex-direction: column;
+    width: 320px;
+    row-gap: 30px;
+    margin-right: 20px;
+}
+
+.about-block3-text {
+    width: 400px;
+    font-size: 20px;
+    color: var(--color-white);
+    margin: 0 auto;
+    line-height: 28px;
+}
+
+.about-textblock3 {
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    margin-top: 140px;
+}
+
+.about-block3-img {
+    object-fit: contain;
+    width: 100%;
+    height: 100%;
+}
+
+.about-block3-text {
+    width: 400px;
+}

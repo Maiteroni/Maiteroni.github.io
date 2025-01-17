@@ -1,0 +1,121 @@
+@media (max-width: 320px){
+
+    .tours-img-dots1T {
+       display: none;
+    }
+
+    .tours-block1-img-lineT{
+        display: none;
+    }
+
+    .main-block1-textT{
+        font-size: 10px;
+        text-align: center;                       
+        width: 260px;
+        margin-bottom: 100px;    
+    }
+
+    .tours-img-dots1-wrapperT{
+        display: none;
+    }
+
+    .main-block1-text-wrapper{
+        padding: 0;
+    }
+
+    .tours-block1-wrapperT {
+       padding: 0;
+       margin: 0;
+       height: 100px;
+    }
+
+    .sum-tours-gridT {    
+        width: 320px;
+        display: grid;
+        grid-template-columns: 1fr;
+        row-gap: 20px;
+    }
+
+    .sum-tours-cardT {
+        width: 320px;
+        margin: 0 auto;
+        display: block;
+    }
+
+    .sum-tours-card-img {
+        width: 260px;
+        height: 150px;
+        margin-left: 30px;
+        border-radius: 20px;
+    }
+
+    .sum-tours-card-title {
+        font-size: 12px;
+        color: var(--color-white);
+        margin: 0;
+        display: none; 
+    }
+
+    .sum-tours-card-textblock {
+        width: 320px;
+        height: 200px;
+    }
+
+    .sum-tours-block1-text {
+        width: 260px;
+        font-size: 12px;
+        color: var(--color-white);
+        line-height: 24px;
+        padding-right: 30px;
+        text-align: center;
+    }
+
+    .tours-main-title {
+        margin-bottom: 50px;
+        text-align: center;
+        color: var(--color-white);
+        font-size: 26px;
+        margin-bottom: 100px;
+    }
+    
+    .headerT {
+        max-width: 1770px;
+        margin: 0 auto;
+    }
+    
+    .header-wrapperT {
+        justify-content: space-around;
+        align-items: center;
+        max-width: 320px;
+        margin: 0 auto;
+        padding: 35px 0;
+    }
+    
+    .logo-linkT {
+        margin-right: 220px;
+        max-height: 40px;
+        max-width: 40px;
+    }
+    
+    .header-right-blockT {
+        display: none; 
+    }
+
+    .slider-containerT {
+        display: none;
+    }
+    
+    .sum-tours-titleT {
+        font-size: 12px;
+        color: var(--color-button);
+        text-align: center;
+        margin-top: 40px;
+        margin-bottom: 30px;
+    }
+
+    .logo-menuT{
+        width: 20px;
+        height: 20px;
+        display: block;
+    }
+}

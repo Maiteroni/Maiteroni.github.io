@@ -1,0 +1,28 @@
+.menu-body{
+    background-image: url('../../img/main/main-background 2.webp');
+}
+
+.menu-all1{
+    text-align: center;
+    max-width: 320px;
+    height: 500px;
+    margin: 0 auto;
+    padding-top: 100px;
+}
+
+.button{
+    width: 200px;
+    background-color: var(--color-dark-blue);
+    text-align: center;
+    color: var(--color-white);
+    font-weight: 600;
+    border-radius: 10px;
+    height: 50px;
+    border: solid 1px var(--color-button);
+}
+
+.button-nazad{
+    margin: 10px 245px;
+    width: 40px;
+    height: 40px;
+}

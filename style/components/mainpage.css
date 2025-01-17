@@ -1,0 +1,148 @@
+.burger {
+    display: none;
+    align-items: center;
+    width: 30px;
+    height: 30px;
+}
+
+.main-block1-wrapper {
+    display: flex;
+    justify-content: space-evenly;
+    max-width: 1770px;
+    margin: 0 auto 100px;
+}
+
+.main-title-text {
+    font-size: 42px;
+    color: var(--color-white);
+    margin: 50px auto 0;
+    padding-top: 50px;
+    text-align: center;
+}
+
+.main-title-h2 {
+    font-size: 30px;
+    color: var(--color-white);
+    margin: 20px auto 100px;
+    text-align: center;
+}
+
+.main-block1-text {
+    width: 600px;
+    font-size: 24px;
+    color: var(--color-white);
+    margin: 0 auto;
+    line-height: 28px;
+}
+
+.main-block1-img {
+    max-width: 560px;
+}
+
+.main-block1-img-wrapper{
+    position: relative;
+}
+
+.main-block1-img-line {
+    position: absolute;
+    top: 0;
+}
+
+.main-img-dots1-wrapper {
+    width: 160px;
+    height: 160px;
+
+}
+
+.main-img-dots1 {
+    position: absolute;
+    object-fit: contain;
+    bottom: 94px;
+    left: -66px;
+    width: 50%;
+    z-index: -1;
+}
+
+.main-block1-text-wrapper {
+    display: flex;
+    flex-direction: column;
+}
+
+.main-block-btn {
+    width: 240px;
+    height: 70px;
+    font-size: 20px;
+    font-weight: 500;
+    color: var(--color-white);
+    background-color: var(--color-button);
+    border-radius: 50px;
+    align-content: center;
+    text-align: center;
+}
+
+.main-block1-btn {
+    margin-top: 20px;
+}
+
+.main-block1-btn:hover {
+    background-color: var(--color-button-hover);
+}
+
+.tours-main {
+    display: none;
+}
+
+.main-block3-wrapper {
+    display: flex;
+    justify-content: center;
+    max-width: 1770px;
+    margin: 200px auto;
+}
+
+.main-block3-grid{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    max-width: 600px;
+    max-height: 600px;
+    margin: 20px 20px;
+    align-self: center;
+    position: relative;
+}
+
+.main-block3-h2 {
+    font-size: 40px;
+    color: var(--color-white);
+    margin: 20px auto 30px auto;
+    text-align: center;
+}
+
+.main-block3-text {
+    max-width: 500px;
+    font-size: 24px;
+    color: var(--color-white);
+    margin: 0 auto;
+    line-height: 28px;
+}
+
+.main-block3-btn {
+    margin-top: 30px;
+}
+
+.main-block3-btn:hover {
+    background-color: var(--color-button-hover);
+}
+
+.main-block3-img-dots {
+    width: 60px;
+    align-content: center;
+}
+
+.main-block3-grid-img:hover {
+    opacity: 1;
+    z-index: 1;
+    position: absolute;
+    right: 0;
+    width: 600px;
+    overflow: hidden;
+}

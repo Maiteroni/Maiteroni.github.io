@@ -1,0 +1,36 @@
+.footer-wrapper {
+    display: flex;
+    justify-content: space-around;
+    vertical-align: top;
+    max-width: 1770px;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+
+.footer-img {
+    object-fit: contain;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.footer-title-text {
+    font-size: 24px;
+    color: var(--color-white);
+}
+
+.footer-text {
+    font-size: 20px;
+    color: var(--color-white);
+    margin-bottom: 10px;
+}
+
+.footer-social-media-logo {
+    width: 40px;
+    height: 40px;
+}
+
+.footer-social-media {
+    display: flex;
+    justify-content: space-between;
+    width: 160px;
+}

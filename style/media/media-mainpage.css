@@ -1,0 +1,587 @@
+@media (max-width: 1350px) {
+
+    .header-wrapper {
+        justify-content: space-evenly;
+        padding: 20px;
+    }
+
+    .logo-link {
+        max-height: 70px;
+        max-width: 70px;
+    }
+
+    .header-list {
+        justify-content: space-evenly;
+        width: 100%;
+    }
+
+    .header-list-link {
+        font-size: 20px;
+    }
+
+    .header-btn {
+        width: 180px;
+        height: 45px;
+        font-size: 16px;
+    }
+
+    .main-title-text {
+        padding-top: 0;
+        font-size: 36px;
+    }
+
+    .main-title-h2 {
+        margin: 20px auto 50px;
+        font-size: 30px;
+    }
+
+    .main-block1-wrapper {
+        justify-content: center;
+        margin: 0 auto;
+    }
+
+    .main-block1-img {
+        max-width: 400px;
+    }
+
+    .main-img-dots1 {
+        width: 30%;
+        bottom: 130px;
+        left: -30px;
+    }
+
+    .main-block1-text {
+        font-size: 20px;
+    }
+
+    .main-block-btn {
+        margin-top: 12px;
+        width: 180px;
+        height: 45px;
+        font-size: 16px;
+    }
+
+    .tours-main-title {
+        font-size: 30px;
+        margin-bottom: 50px;
+    }
+
+    .swiper-button {
+        width: 180px;
+        height: 45px;
+        font-size: 16px;
+    }
+
+    .main-block3-wrapper {
+        margin: 100px auto;
+    }
+
+    .main-block3-h2 {
+        font-size: 30px;
+        margin: 10px auto 15px auto;
+    }
+
+    .main-block3-text {
+        max-width: 400px;
+        font-size: 20px;
+    }
+
+    .main-block-btn {
+        width: 140px;
+        height: 35px;
+        font-size: 14px;
+    }
+
+    .main-block3-grid {
+        max-width: 400px;
+        max-height: 400px;
+        margin: 10px 10px;
+    }
+
+    .main-block3-grid-img:hover {
+        width: 400px;
+    }
+
+    .main-block3-img-dots {
+        width: 40px;
+    }
+
+    .reviews {
+        height: 885px;
+    }
+
+    .reviews h2 {
+        font-size: 30px;
+    }
+
+    .reviews-wrapper {
+        max-width: 856px;
+        padding-top: 30px;
+        padding-bottom: 24px;
+        row-gap: 8px;
+    }
+
+    .reviews-card {
+        justify-content: space-around;
+        height: 340px;
+        width: 420px;
+    }
+
+    .reviews-card-top {
+        font-size: 16px;
+        padding-left: 25px;
+    }
+
+    .reviews-card-quotes {
+        width: 22px;
+        height: 16px;
+    }
+
+    .reviews-card-text {
+        width: 280px;
+        height: 120px;
+    }
+
+    .reviews-card-bottom {
+        padding-right: 13px;
+        font-size: 12px;
+    }
+
+    .rcd2 {
+        padding-left: 24px;
+    }
+
+    .rcd3 {
+        padding-right: 57px;
+    }
+
+    .rcd4 {
+        padding-right: 114px;
+    }
+
+    .reviews-btn {
+        width: 180px;
+        height: 45px;
+        font-size: 16px;
+    }
+
+    .footer-wrapper {
+        margin-top: 50px;
+        justify-content: space-evenly;
+    }
+
+    .footer-title-text {
+        font-size: 16px;
+    }
+
+    .footer-img {
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
+
+    .footer-text {
+        font-size: 14px;
+    }
+
+    .footer-social-media {
+        width: 100px;
+    }
+
+    .footer-social-media-logo {
+       width: 24px;
+       height: 24px; 
+    }
+}
+
+@media (max-width: 1120px) {
+
+    .header-wrapper {
+        padding: 12px;
+    }
+
+    .header-list-element {
+        margin-right: 12px;
+    }
+
+    .header-list-link {
+        font-size: 16px;
+    }
+
+    .header-btn {
+        margin-right: 2px;
+        width: 140px;
+        height: 35px;
+        font-size: 14px;
+    }
+
+    .main-title-text {
+        margin: 25px auto;
+        font-size: 30px;
+    }
+
+    .main-title-h2 {
+        font-size: 24px;
+        margin: 20px auto 25px;
+    }
+
+    .main-block1-wrapper {
+        padding-left: 25px;
+        height: 380px;
+    }
+
+    .main-block1-img-line {
+        width: 100px;
+    }
+
+    .main-img-dots1 {
+        bottom: 42px;
+        left: -24px;
+    }
+
+    .main-block1-text-wrapper {
+        padding-left: 10px;
+    }
+
+    .main-block1-text {
+        width: 100%;
+        font-size: 16px;
+    }
+
+    .tours-main-title {
+        font-size: 24px;
+        margin-bottom: 25px;
+    }
+
+    .swiper-button {
+        width: 140px;
+        height: 35px;
+        font-size: 14px;
+    }
+
+    .main-block3-wrapper {
+        margin: 50px auto;
+    }
+
+    .main-block3-h2 {
+        font-size: 24px;
+        margin: 10px auto 10px;
+    }
+
+    .main-block3-text {
+        max-width: 360px;
+        font-size: 16px;
+    }
+
+    .reviews h2 {
+        font-size: 24px;
+        padding-top: 24px;
+    }
+}
+
+@media (max-width: 980px) {
+    .logo-link {
+        max-width: 50px;
+        max-height: 50px;
+    }
+    .header-wrapper {
+        display: flex;
+        justify-content: space-around;
+        align-items: baseline;
+    }
+
+    .header-right-block {
+        display: none;
+    }
+
+    .burger {
+        display: flex;
+    }
+
+    .button-nazad {
+        margin: 10px 531px;
+    }
+
+    .main-block1-img {
+        max-width: 290px;
+    }
+
+    .main-img-dots1 {
+        left: -21px;
+    }
+
+    .main-block1-wrapper {
+        height: 290px;
+    }
+
+    .main-block1-text-wrapper {
+        width: 400px;
+    }
+
+    .main-block1-text {
+        font-size: 14px;
+        line-height: 18px;
+    }
+
+    .slider-container {
+        max-width: 740px;
+        height: 463px;
+    }
+
+    .swiper-button {
+        left: 34px;
+        bottom: 30px;
+    }
+
+    .prev-button {
+        top: 50%;
+    }
+
+    .next-button {
+        top: 50%;
+    }
+
+    .main-block3-wrapper {
+        margin: 30px auto;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .main-block3-h2 {
+        font-size: 20px;
+        margin: 7px auto 7px;
+    }
+
+    .main-block3-text {
+        max-width: 260px;
+        font-size: 14px;
+        line-height: 20px;
+    }
+
+    .main-block-btn {
+        margin: 10px auto;
+        display: block;
+    }
+
+    .main-block3-grid {
+        max-width: 400px;
+        max-height: 400px;
+    }
+
+    .main-block3-grid-img:hover {
+        z-index: -1;
+    }
+
+    .main-block3-img-dots {
+        width: 30px;
+        position: absolute;
+        right: 140px;
+        bottom: -510px;
+    }
+
+    .reviews {
+        height: 1384px;
+    }
+
+    .reviews-wrapper {
+        grid-template-columns: 1fr;
+    }
+
+    .reviews-card {
+        height: 300px;
+        width: 380px;
+    }
+
+    .reviews-card-top {
+        font-size: 14px;
+    }
+
+    .reviews-card-bottom {
+        padding-left: 36px;
+    }
+
+    .rcd2 {
+        padding-left: 64px;
+    }
+
+    .rcd3 {
+        padding-right: 54px;
+    }
+
+    .rcd4 {
+        padding-left: 140px;
+    }
+
+    .reviews-btn {
+        width: 140px;
+        height: 35px;
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 760px) {
+
+    .main-block1-wrapper {
+        flex-direction: column;
+        align-items: center;
+        height: 100%;
+    }
+
+    .main-block1-text-wrapper {
+        margin-left: 0;
+    }
+
+    .main-block1-img {
+        max-width: 320px;
+    }
+
+    .main-img-dots1-wrapper {
+        height: 65px;
+    }
+    
+    .main-img-dots1 {
+        left: -23px;
+    }
+
+    .slider-container {
+        display: none;
+    }
+
+    .tours {
+       display: flex; 
+    }
+
+    .sum-tours-grid {
+        margin: 15px auto;
+    }
+
+    .sum-tours-card {
+        max-width: 460px;
+        padding-bottom: 20px;
+        flex-direction: column;
+    }
+
+    .sum-tours-card-textblock {
+        max-width: 460px;
+        margin: 0 auto;
+    }
+
+    .sum-tours-card-title {
+        display: flex;
+        justify-content: center;
+        margin-top: 15px;
+        margin-left: 0;
+        font-size: 22px;
+        text-decoration: none;
+    }
+
+    .sum-tours-block1-text {
+        max-width: 460px;
+        margin: 10px auto;
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+    .tours-block-btn {
+        display: block;
+        width: 140px;
+        height: 35px;
+        margin: 0 auto;
+        font-size: 14px;
+        font-weight: 500;
+        border-radius: 50px;
+    }
+    
+    .main-block3-h2 {
+        font-size: 24px;
+    }
+    
+    .main-block3-text {
+        font-size: 16px;
+    }
+
+    .main-block3-grid {
+        grid-template-columns: 1fr;
+        max-height: 100%;
+    }
+
+    .main-block3-grid-img {
+        width: 320px;
+        height: 320px;
+    }
+
+    .main-block3-grid-img:hover {
+        z-index: -1;
+      }
+
+    .main-block3-img-dots {
+        display: none;
+    }
+
+    .footer-wrapper {
+        flex-direction: column;
+        flex-wrap: wrap;
+        align-content: center;
+    }
+
+    .footer-wrapper-block {
+        margin: 10px;
+    }
+}
+
+@media (max-width: 320px) {
+    .header-wrapper {
+        justify-content: space-between;
+    }
+
+    .logo-link {
+        width: 40px;
+        height: 40px;
+    }
+
+    .burger {
+        width: 25px;
+        height: 25px;
+    }
+
+    .main-block1-wrapper {
+        padding-left: 0;
+    }
+
+    .main-block1-img {
+        max-width: 310px;
+    }
+    .main-img-dots1 {
+        display: none;
+    }
+
+    .main-block1-text-wrapper {
+        padding: 0;
+        width: 310px;
+    }
+
+    .tours-main-title {
+        font-size: 26px;
+        margin-bottom: 10px;
+    }
+
+    .tours-main {
+        display: flex;
+    }
+
+    .main-block3-grid-img {
+        height: 270px;
+        padding-bottom: 10px;
+    }
+
+    .reviews {
+        height: 100%;
+    }
+
+    .reviews-card {
+        width: 310px;
+    }
+
+    .footer {
+        display: block;
+    }
+}
